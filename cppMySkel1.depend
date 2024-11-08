@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1724493186 source:/home/archman/workspace/cb/cpp/cppMySkel1/cppMySkel1App.cpp
+1731059707 source:/home/archman/workspace/cb/cpp/cppMySkel1/cppMySkel1App.cpp
 	"cppMySkel1App.h"
 	"cppMySkel1Main.h"
 	<wx/image.h>
@@ -1511,7 +1511,9 @@
 1715637389 /usr/include/wx-3.2/wx/univ/theme.h
 	"wx/string.h"
 
-1724493186 /home/archman/workspace/cb/cpp/cppMySkel1/cppMySkel1Main.h
+1731060062 /home/archman/workspace/cb/cpp/cppMySkel1/cppMySkel1Main.h
+	<wx/colordlg.h>
+	<wx/fontdlg.h>
 	<wx/frame.h>
 	<wx/menu.h>
 	<wx/statusbr.h>
@@ -1595,7 +1597,7 @@
 
 1715637389 /usr/include/wx-3.2/wx/qt/menu.h
 
-1724493186 source:/home/archman/workspace/cb/cpp/cppMySkel1/cppMySkel1Main.cpp
+1731059511 source:/home/archman/workspace/cb/cpp/cppMySkel1/cppMySkel1Main.cpp
 	"cppMySkel1Main.h"
 	<wx/msgdlg.h>
 	<wx/intl.h>
@@ -1688,4 +1690,66 @@
 
 1715637389 /usr/include/wx-3.2/wx/qt/msgdlg.h
 	"wx/msgdlg.h"
+
+1715637389 /usr/include/wx-3.2/wx/colordlg.h
+	"wx/defs.h"
+	"wx/colourdata.h"
+	"wx/msw/colordlg.h"
+	"wx/osx/colordlg.h"
+	"wx/gtk/colordlg.h"
+	"wx/qt/colordlg.h"
+	"wx/generic/colrdlgg.h"
+
+1715637389 /usr/include/wx-3.2/wx/colourdata.h
+	"wx/colour.h"
+
+1715637389 /usr/include/wx-3.2/wx/msw/colordlg.h
+	"wx/dialog.h"
+
+1715637389 /usr/include/wx-3.2/wx/osx/colordlg.h
+	"wx/dialog.h"
+
+1715637389 /usr/include/wx-3.2/wx/gtk/colordlg.h
+	"wx/dialog.h"
+
+1715637389 /usr/include/wx-3.2/wx/qt/colordlg.h
+	"wx/dialog.h"
+
+1715637389 /usr/include/wx-3.2/wx/generic/colrdlgg.h
+	"wx/gdicmn.h"
+	"wx/dialog.h"
+
+1715637389 /usr/include/wx-3.2/wx/fontdlg.h
+	"wx/defs.h"
+	"wx/dialog.h"
+	"wx/fontdata.h"
+	"wx/generic/fontdlgg.h"
+	"wx/msw/fontdlg.h"
+	"wx/gtk/fontdlg.h"
+	"wx/gtk1/fontdlg.h"
+	"wx/osx/fontdlg.h"
+	"wx/qt/fontdlg.h"
+
+1715637389 /usr/include/wx-3.2/wx/fontdata.h
+	"wx/font.h"
+	"wx/colour.h"
+	"wx/encinfo.h"
+
+1715637389 /usr/include/wx-3.2/wx/encinfo.h
+	"wx/string.h"
+
+1715637389 /usr/include/wx-3.2/wx/generic/fontdlgg.h
+	"wx/gdicmn.h"
+	"wx/font.h"
+
+1715637389 /usr/include/wx-3.2/wx/msw/fontdlg.h
+
+1715637389 /usr/include/wx-3.2/wx/gtk/fontdlg.h
+
+1715637389 /usr/include/wx-3.2/wx/gtk1/fontdlg.h
+
+1715637389 /usr/include/wx-3.2/wx/osx/fontdlg.h
+	"wx/dialog.h"
+
+1715637389 /usr/include/wx-3.2/wx/qt/fontdlg.h
 
